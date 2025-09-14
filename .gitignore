@@ -1,0 +1,11 @@
+.cache/
+state/
+swap/
+undo/
+views/
+sessions/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.log
